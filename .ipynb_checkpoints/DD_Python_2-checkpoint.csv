@@ -1,0 +1,101 @@
+﻿Key,Outcome,Engagement_with_FH,Ethnicity,Employment_Status,IDACI,Children_in_Family,Family_Composition,CSSW,Agencies_Involved,Parental_Mental_Health_(Primary_Caregivers),Physical_Health_Needs_(Child),Physical_Health_Needs_(Parent),NICU/NNU,Maternal_First_Language,Other_barriers
+A1,Attended,Low,Black or Black British,Employed,0.3,1,Nuclear Family,0,1,0,0,0,0,0,0
+A10,Attended,Low,White - British,Employed,0.2,1,Extended Family,0,1,0,1,0,0,0,0
+A11,Attended,Good,White - Other,Employed,0.8,1,Nuclear Family,0,1,0,1,0,1,0,0
+A12,Attended,Good,Mixed,Employed,1,1,Nuclear Family,0,1,0,0,0,0,0,0
+A13,Attended,Good,Asian or Asian British,Employed,0.1,1,Nuclear Family,0,0,1,0,0,0,0,0
+A14,Attended,Low,White - Other,Self Employed,0.4,2,Nuclear Family,0,0,0,0,0,0,0,0
+A15,Attended,Low,White - Other,Employed,0.3,1,Extended Family,0,1,0,0,0,0,0,0
+A16,Attended,Low,Asian or Asian British,Employed,0.3,1,Nuclear Family,0,0,0,0,0,0,0,0
+A17,Attended,Low,Mixed,Employed,0.3,2,Nuclear Family,0,0,0,0,0,0,0,0
+A18,Attended,Good,Mixed,Employed,0.1,2,Nuclear Family,0,1,1,0,1,0,0,0
+A19,Attended,Low,Not known,Employed,0.2,2,Nuclear Family,1,0,0,0,0,0,0,1
+A2,Attended,Low,Mixed,Employed,0.3,1,Nuclear Family,0,1,0,1,0,0,0,0
+A20,Attended,Low,Asian or Asian British,Employed,0.1,2,Extended Family,1,1,0,0,0,0,0,0
+A21,Attended,Good,White - British,Employed,0.3,1,Extended Family,0,1,0,0,1,0,1,1
+A22,Attended,Low,Not known,Employed,0.5,3,Nuclear Family,0,1,0,0,0,0,0,0
+A23,Attended,Low,White - British,Employed,0.3,1,Nuclear Family,0,0,0,0,0,0,0,0
+A24,Attended,Low,Mixed,Employed,0.8,1,Nuclear Family,0,1,0,0,0,0,0,0
+A25,Attended,Low,White - British,Employed,0.1,1,Nuclear Family,0,1,0,0,0,0,0,0
+A26,Attended,Good,White - Other,Employed,0.3,1,Extended Family,0,0,0,0,0,0,0,0
+A27,Attended,Low,White - Other,Employed,1,2,Nuclear Family,0,0,0,0,0,0,0,0
+A28,Attended,Good,Black or Black British,Employed,0.2,2,Single Parent Family,0,1,0,0,0,0,0,0
+A29,Attended,Low,Mixed,Employed,0.2,1,Nuclear Family,0,0,0,0,0,0,0,1
+A3,Attended,Good,White - Other,Unemployed,0.2,1,Nuclear Family,0,1,0,0,0,0,1,0
+A30,Attended,Low,White - Other,Unemployed,0.2,3,Single Parent Family,0,1,0,1,1,0,0,0
+A4,Attended,Low,White - British,Self Employed,0.8,1,Nuclear Family,0,0,1,0,1,0,0,0
+A5,Attended,Good,Not known,Employed,0.7,3,Nuclear Family,0,1,1,0,0,1,0,0
+A6,Attended,Low,Black or Black British,Employed,0.8,1,Nuclear Family,0,0,0,0,0,0,0,0
+A7,Attended,Low,White - Other,Employed,1,1,Nuclear Family,0,0,0,0,0,0,0,0
+A8,Attended,Good,Asian or Asian British,Employed,0.9,1,Nuclear Family,0,0,0,0,0,0,1,0
+A9,Attended,Low,White - British,Employed,0.9,1,Nuclear Family,0,0,0,0,0,0,0,0
+DNA1,Booked but did not attend,Low,Asian or Asian British,Employed,0.2,1,Extended Family,0,1,1,0,0,0,0,1
+DNA10,Booked but did not attend,No engagement,Not known,Unknown,1,2,Nuclear Family,0,0,0,0,0,0,0,0
+DNA11,Booked but did not attend,Low,Not known,Employed,0.6,1,Nuclear Family,0,0,0,0,0,0,0,0
+DNA12,Booked but did not attend,Good,Mixed,Employed,0.3,1,Nuclear Family,0,1,1,0,0,0,0,0
+DNA13,Booked but did not attend,No engagement,Mixed,Employed,0.7,2,Nuclear Family,0,1,0,0,0,0,0,0
+DNA14,Booked but did not attend,Low,Mixed,Employed,0.7,1,Nuclear Family,0,0,0,0,0,0,0,0
+DNA15,Booked but did not attend,No engagement,Not known,Employed,0.4,3,Nuclear Family,0,1,0,1,0,1,0,0
+DNA16,Booked but did not attend,Low,Not known,Employed,0.2,4,Nuclear Family,0,1,1,1,0,1,0,1
+DNA17,Booked but did not attend,No engagement,Asian or Asian British,Employed,0.5,1,Nuclear Family,0,1,0,0,0,0,0,0
+DNA18,Booked but did not attend,No engagement,Other Ethnic Groups,Employed,0.3,2,Nuclear Family,0,0,0,0,0,0,0,0
+DNA19,Booked but did not attend,No engagement,White - British,Employed,0.3,4,Single Parent Family,1,1,1,0,0,0,0,1
+DNA2,Booked but did not attend,No engagement,White - British,Employed,0.7,1,Nuclear Family,0,1,0,0,0,0,0,0
+DNA20,Booked but did not attend,Low,Asian or Asian British,Unknown,0.3,2,Extended Family,0,1,0,0,0,0,0,1
+DNA21,Booked but did not attend,Low,White - British,Employed,1,2,Nuclear Family,0,1,0,0,0,0,0,0
+DNA22,Booked but did not attend,Low,Asian or Asian British,Employed,0.1,1,Extended Family,1,1,0,0,0,0,0,0
+DNA23,Booked but did not attend,Low,Black or Black British,Employed,0.2,1,Nuclear Family,0,0,0,0,0,0,0,0
+DNA24,Booked but did not attend,No engagement,White - Other,Employed,0.1,3,Nuclear Family,0,0,0,0,0,0,0,0
+DNA25,Booked but did not attend,No engagement,Mixed,Employed,1,1,Nuclear Family,0,0,0,0,0,0,0,0
+DNA26,Booked but did not attend,Low,Mixed,Employed,0.2,4,Nuclear Family,1,1,0,0,0,0,0,0
+DNA27,Booked but did not attend,No engagement,Asian or Asian British,Unknown,1,1,Nuclear Family,0,1,0,0,0,0,0,0
+DNA28,Booked but did not attend,Low,Black or Black British,Employed,0.2,2,Nuclear Family,0,0,0,0,0,0,1,1
+DNA29,Booked but did not attend,Low,Black or Black British,Unemployed,0.4,2,Nuclear Family,0,0,0,0,0,0,0,1
+DNA3,Booked but did not attend,No engagement,Not known,Unknown,0.1,3,Single Parent Family,0,0,0,0,0,0,0,0
+DNA30,Booked but did not attend,Low,White - British,Employed,0.3,6,Nuclear Family,1,1,0,1,1,1,0,1
+DNA4,Booked but did not attend,No engagement,Black or Black British,Unknown,0.1,3,Extended Family,0,1,0,1,0,0,0,1
+DNA5,Booked but did not attend,Low,Asian or Asian British,Employed,0.2,1,Nuclear Family,0,0,0,0,0,0,0,0
+DNA6,Booked but did not attend,Low,White - Other,Self Employed,0.2,3,Nuclear Family,0,1,0,0,0,0,0,1
+DNA7,Booked but did not attend,Low,Mixed,Self Employed,0.4,3,Nuclear Family,0,0,1,0,0,1,0,1
+DNA8,Booked but did not attend,No engagement,Mixed,Employed,0.3,4,Nuclear Family,0,0,0,0,0,0,0,0
+DNA9,Booked but did not attend,Low,Asian or Asian British,Employed,0.1,2,Nuclear Family,1,1,1,0,0,0,0,1
+NR/D1,Declined,Low,Asian or Asian British,Employed,0.1,1,Nuclear Family,0,1,0,1,0,0,0,0
+NR/D10,Declined,No engagement,White - British,Employed,0.6,6,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D11,Declined,No engagement,White - British,Employed,1,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D12,Declined,No engagement,White - Other,Employed,1,3,Nuclear Family,0,0,0,0,0,1,0,0
+NR/D13,Declined,No engagement,White - Other,Employed,1,2,Nuclear Family,0,0,0,0,0,1,0,0
+NR/D14,Declined,Low,White - British,Employed,0.4,3,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D15,Declined,Good,White - Other,Employed,0.4,3,Nuclear Family,1,1,0,0,0,0,0,1
+NR/D16,Declined,No engagement,Not known,Unknown,0.8,3,Nuclear Family,0,1,0,0,0,1,0,0
+NR/D17,Declined,Low,White - British,Employed,0.2,1,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D18,Declined,No engagement,White - Other,Employed,0.4,1,Nuclear Family,0,1,0,0,0,0,0,1
+NR/D19,Declined,No engagement,White - British,Employed,0.7,1,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D2,Declined,No engagement,Other Ethnic Groups,Employed,0.1,6,Nuclear Family,0,0,0,0,0,0,1,1
+NR/D20,Declined,Low,White - Other,Employed,0.7,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D21,Declined,Low,White - Other,Employed,0.3,2,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D22,Declined,Low,Asian or Asian British,Self Employed,0.5,2,Extended Family,0,1,0,0,0,0,0,1
+NR/D23,Declined,No engagement,Mixed,Employed,0.1,2,Single Parent Family,0,0,0,0,0,0,0,0
+NR/D24,Declined,Good,White - Other,Unemployed,0.3,1,Nuclear Family,0,0,0,0,0,0,0,1
+NR/D25,Declined,Low,White - British,Unknown,0.8,1,Single Parent Family,0,1,0,1,0,0,0,1
+NR/D26,Declined,Low,Asian or Asian British,Unknown,0.6,1,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D27,Declined,Low,Black or Black British,Employed,0.2,2,Extended Family,0,1,0,0,0,0,0,1
+NR/D28,Declined,No engagement,Black or Black British,Unknown,0.4,1,Single Parent Family,0,0,0,0,0,0,0,1
+NR/D29,Declined,Low,Asian or Asian British,Unknown,0.8,1,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D3,Declined,No engagement,White - British,Employed,0.6,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D30,Declined,No engagement,White - Other,Unknown,0.3,1,Single Parent Family,0,1,0,0,0,1,0,1
+NR/D31,Declined,No engagement,Not known,Employed,0.6,1,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D32,Declined,No engagement,Asian or Asian British,Unknown,0.9,2,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D33,Declined,No engagement,Black or Black British,Unemployed,0.3,2,Single Parent Family,0,1,0,0,0,0,0,0
+NR/D34,Declined,Low,White - British,Employed,1,1,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D35,Declined,No engagement,Not known,Employed,1,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D36,Declined,No engagement,White - Other,Unknown,0.2,2,Nuclear Family,0,0,0,0,0,0,1,1
+NR/D37,Declined,Low,White - British,Unknown,0.4,1,Extended Family,0,0,0,0,0,0,0,0
+NR/D38,Declined,Low,White - British,Employed,0.8,2,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D39,Declined,No engagement,White - British,Employed,0.3,1,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D4,Declined,No engagement,White - Other,Employed,0.6,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D40,Declined,No engagement,White - Other,Employed,0.8,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D5,Declined,Low,Not known,Employed,0.3,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D6,Declined,No engagement,White - British,Employed,0.1,1,Nuclear Family,0,1,0,0,0,0,0,0
+NR/D7,Declined,Low,Mixed,Employed,0.6,2,Nuclear Family,0,0,0,0,0,0,0,0
+NR/D8,Declined,Low,Asian or Asian British,Employed,0.2,1,Extended Family,0,0,0,0,0,0,1,1
+NR/D9,Declined,Good,Asian or Asian British,Employed,0.1,3,Extended Family,0,1,0,0,0,0,0,0
